@@ -1,0 +1,4 @@
+﻿  趣味俄罗斯方块.cpp
+e:\my-github\趣味俄罗斯方块\趣味俄罗斯方块\趣味俄罗斯方块.cpp(135): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\my-github\趣味俄罗斯方块\趣味俄罗斯方块\趣味俄罗斯方块.cpp(466): warning C4101: “n”: 未引用的局部变量
+  趣味俄罗斯方块.vcxproj -> E:\my-github\趣味俄罗斯方块\Debug\趣味俄罗斯方块.exe
