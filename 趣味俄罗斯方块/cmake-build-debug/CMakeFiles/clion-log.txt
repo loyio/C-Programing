@@ -1,0 +1,12 @@
+"D:\Program Files (x86)\CLion 2017.3.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" E:\C-programing\C-Programing\趣味俄罗斯方块
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "瓒ｅ懗淇勭綏鏂柟鍧�/stdafx.cpp" is reserved or not valid
+  for certain CMake features, such as generator expressions, and may result
+  in undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
