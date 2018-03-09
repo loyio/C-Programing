@@ -59,15 +59,15 @@ include CMakeFiles/arith.dir/flags.make
 CMakeFiles/arith.dir/main.cpp.obj: CMakeFiles/arith.dir/flags.make
 CMakeFiles/arith.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\C-programing\C-Programing\StudyProject\arith\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/arith.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\arith.dir\main.cpp.obj -c E:\C-programing\C-Programing\StudyProject\arith\main.cpp
+	D:\Qt\Qt5.10.0\Tools\mingw530_32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\arith.dir\main.cpp.obj -c E:\C-programing\C-Programing\StudyProject\arith\main.cpp
 
 CMakeFiles/arith.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/arith.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\C-programing\C-Programing\StudyProject\arith\main.cpp > CMakeFiles\arith.dir\main.cpp.i
+	D:\Qt\Qt5.10.0\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\C-programing\C-Programing\StudyProject\arith\main.cpp > CMakeFiles\arith.dir\main.cpp.i
 
 CMakeFiles/arith.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/arith.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\C-programing\C-Programing\StudyProject\arith\main.cpp -o CMakeFiles\arith.dir\main.cpp.s
+	D:\Qt\Qt5.10.0\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\C-programing\C-Programing\StudyProject\arith\main.cpp -o CMakeFiles\arith.dir\main.cpp.s
 
 CMakeFiles/arith.dir/main.cpp.obj.requires:
 
