@@ -1,0 +1,3 @@
+/Users/susmote/C-Programing/StudyProject/newstrct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/susmote/C-Programing/StudyProject/newstrct/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/susmote/C-Programing/StudyProject/newstrct/cmake-build-debug/CMakeFiles/newstrct.dir
